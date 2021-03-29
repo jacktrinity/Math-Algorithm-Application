@@ -5,6 +5,7 @@ Given two side of a triangle, find the range of possible
 length of the missing side.
 
 CodeSkulptor: https://py3.codeskulptor.org/#user306_U1W9B8gbNU_0.py
+Written in Python 3
 """
 
 import math
