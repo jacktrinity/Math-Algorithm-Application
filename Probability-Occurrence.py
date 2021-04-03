@@ -17,7 +17,7 @@ def event_outcome(p_chance, n):
     p_chance is the probability of an event occuring
     n amount of given trials
     
-    return a float number of the probability of the outcome
+    return a float of the probability of the event occuring at least once
     """
     whole_space = float(1)
     p_not_occuring = (1 - p_chance) ** n
